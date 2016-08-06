@@ -1,3 +1,1 @@
-# Alien-Bunny V8
-
-V8 integration for Alien-Bunny.
+Repository has been moved to https://gitlab.com/tamasd/abv8
